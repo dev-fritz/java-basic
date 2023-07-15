@@ -12,7 +12,7 @@ public class SortGame {
         String msg = """
                                         ADIVINHE O NUMERO!
                 O jogo funcionará da seguinte maneira, você terá 5 tentativas para acertar
-                  qual numero randôico foi gerado, em cada tentativa será informado se o
+                  qual numero randômico foi gerado, em cada tentativa será informado se o
                      número sorteado é maior ou menor que o número inserido.""";
 
         System.out.println(msg);
